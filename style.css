@@ -1,0 +1,30 @@
+p{
+    color: red;
+    background-color: coral;
+    border: 0cap;
+}
+
+body{
+    margin: 20px;
+}
+
+#ocean{
+    color: rgb(13, 6, 200);
+}
+
+div{
+    background-color: yellow;
+    border: black solid;
+    padding: 30px;
+}
+
+.university-name{
+    font-weight: bold;
+    color: beige;
+}
+
+.university-container{
+    border: solid 1px black;
+    padding: 16px;
+    margin-bottom: 8px;
+}
